@@ -6,4 +6,4 @@ lnmp
 4、安装最新的phpmyadmin，并修改文件夹名称。  
 5、下载安装wordpress和discuz！，安装时需要写入权限，所以把文件所有者修改为www用户，nginx是使用www用户身份运行的。  
 6、按照discuz！按照提示，使用lnmp提供的方法安装了opcache插件。   
-7、虚拟主机的添加方法，使用lnmp提供的命令管理。   
+7、虚拟主机的添加方法，使用lnmp提供的命令管理。为每一个虚拟主机添加单独的ftp、mysql账号，确保安全。   
